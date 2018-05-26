@@ -1,4 +1,4 @@
-def looping("Wingardium Leviosa")
+def looping
 	#your code here
   loop do
   puts "Wingardium Leviosa"
